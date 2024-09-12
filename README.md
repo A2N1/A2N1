@@ -30,9 +30,9 @@ Text :de: :earth_americas:
 
 <h2 align="center">Social Media<p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram,discord" />
-  </a>
+  <a target="_blank"href="Link"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></     a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="Link"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="Link"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
