@@ -1,5 +1,4 @@
-<h1 align="center"> # AlphaNiro ~ A2N1
-</h1>
+<h1 align="center"> ALPHANIRO
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=A2N1.A2N1" />
 </h1>
