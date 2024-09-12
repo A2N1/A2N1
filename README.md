@@ -4,8 +4,8 @@
 
 <hr/>
 
-<h3 align="center">AlphaNiro
-</h3>
+<h2 align="center">AlphaNiro
+</h2>
 Text
 <hr/>
 
