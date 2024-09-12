@@ -22,8 +22,6 @@
      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-
 <h2 align="center">Interested<p>
 <p align="center">
      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -47,7 +45,6 @@
      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<hr>
 
 <h2 align="center">Social Media<p>
 <p align="center">
@@ -59,7 +56,6 @@
   <a href="Link"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
 
 <!-- 
 </div> - Container, die andere HTML-Elemente gruppieren können. Das </div>-Tag markiert das Ende dieses Containers.
