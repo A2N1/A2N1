@@ -3,7 +3,7 @@
 </p>
 <hr/>
 
-<p align="center">AlphaNiro
+<h1 align="center">AlphaNiro
 </p>
 <hr/>
 
