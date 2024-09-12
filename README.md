@@ -10,14 +10,8 @@
 <h2 align="center">Languages and Tools<p>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,java,html" />
-    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
-    
-<hr/>
+    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>    
 
-<h2 align="center">Currently Learning<p>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,java,html" />
-    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
 </div>
 <br/>
 </h1>
