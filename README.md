@@ -2,7 +2,6 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&letterSpacing=big&duration=3000&pause=500&color=0ED7F3&background=FF541900&center=true&vCenter=true&width=500&height=70&lines=Welcome+To+Planet+Earth!;Nice+To+Meet+You."/>
      </p>
 
-<hr/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=A2N1.A2N1" />
 
