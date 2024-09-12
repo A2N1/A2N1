@@ -8,6 +8,9 @@
 </h1>
 Text :de: :earth_americas:
 <hr/>
+<p align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=A2N1.A2N1" />
+</p>
 
 <h2 align="center">Languages and Tools<p>
 <p align="center">
