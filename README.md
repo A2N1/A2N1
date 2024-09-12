@@ -60,3 +60,11 @@
   <a target="_blank"href="Link"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="Link"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<hr>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=A2N1&theme=dark" alt="A2N1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A2N1&show_icons=true&theme=dark&locale=en" alt="A2N1" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=A2N1&show_icons=true&theme=dark&locale=en&layout=compact" alt="A2N1" /></p>
