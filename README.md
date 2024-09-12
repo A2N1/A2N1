@@ -4,7 +4,7 @@
 
 <hr>
 
-<h1 align="center">AlphaNiro
+<h1 align="center">AlphaNiro</h1>
 <p align="center">
   <samp>Text :de: :earth_americas:
   </samp>
