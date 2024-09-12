@@ -8,7 +8,7 @@
 
 <hr/>
 
-<p align="center">Languages and Tools<p>
+<h1 align="center">Languages and Tools>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,java,html" />
     <img src="https://skillicons.dev/icons?i=python,javascript" />
