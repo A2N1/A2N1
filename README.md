@@ -16,7 +16,7 @@
     
 </div>
 
-<h2 align="center">Currently Learning</h1>
+<h2 align="center">Currently Learning<p>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,java,html" />
     <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
