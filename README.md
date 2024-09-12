@@ -5,8 +5,6 @@
 <h1 align="center">AlphaNiro</h1>
 <p align="center">
   <samp>Text :de: :earth_americas:</samp>
-  <br> <br>
-  <img src="https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </p>
 
 <h1 align="center">
