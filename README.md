@@ -14,6 +14,7 @@ Text
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,idea,vscode,github,eclipse" />
   </a>
+<h2/>
 OracleSQL
 
 <h2 align="center">Interested<p>
