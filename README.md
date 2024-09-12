@@ -7,7 +7,7 @@
 <h1 align="center">AlphaNiro
 
 <hr/>
-
+<br/>
 <p align="center">Languages and Tools<p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,java,html" />
