@@ -53,16 +53,3 @@
   <a target="_blank"href="Link"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="Link"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true" />
-</a>
-
-<!-- 
-</div> - Container, die andere HTML-Elemente gruppieren können. Das </div>-Tag markiert das Ende dieses Containers.
-<br/> - Wird verwendet, um den Text oder Inhalt direkt in die nächste Zeile zu bringen. Es ist ein selbstschließendes Tag, daher benötigt es kein schließendes </br>.
-</h1> - Wird verwendet, um das Ende einer Hauptüberschrift (<h1>) zu kennzeichnen. <h1> ist die größte Überschrift und wird häufig für den Titel oder Hauptkopf einer Seite verwendet.
-<p> - Wird verwendet, um Text in Absätzen darzustellen. Es sollte normalerweise mit </p> geschlossen werden. In deinem Fall gibt es keine Inhalte zwischen <p> und dem schließenden Tag, was bedeutungslos ist.
-<hr/> - Wird verwendet, um Inhalte visuell zu trennen. Es ist auch ein selbstschließendes Tag und benötigt kein schließendes </hr>.
-<html> </html>, <head> </head>, <title>, <body>
--->
