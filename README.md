@@ -4,13 +4,12 @@
 
 <h1 align="center">AlphaNiro</h1>
 <p align="center">
-  <samp>Text :de: :earth_americas:
-  </samp>
+  <samp>Text :de: :earth_americas:</samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=A2N1" alt="https://github.com/A2N1" />
 </p>
 
-<h2 align="center">Languages and Tools<p>
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -18,7 +17,7 @@
      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Interested<p>
+<h2 align="center">Interested</h2>
 <p align="center">
      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -42,7 +41,7 @@
 </p>
 
 
-<h2 align="center">Social Media<p>
+<h2 align="center">Social Media</h2>
 <p align="center">
   <a target="_blank"href="Link"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="Link"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
