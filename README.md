@@ -15,6 +15,7 @@ Text :de: :earth_americas:
     <img src="https://skillicons.dev/icons?i=java,idea,vscode,github,eclipse" />
   </a>
 <h2/>
+     
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <h2 align="center">Interested<p>
