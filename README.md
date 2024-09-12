@@ -12,6 +12,8 @@ Text :de: :earth_americas:
      <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=A2N1.A2N1" />
 </p>
 
+<hr>
+
 <h2 align="center">Languages and Tools<p>
 <p align="center">
      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;
