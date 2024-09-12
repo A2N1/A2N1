@@ -4,8 +4,7 @@
 <hr/>
 
 <h1 align="center">AlphaNiro
-</p>
-<hr/>
+</h1>
 
 <p align="center">Languages and Tools<p>
 <p align="center">
