@@ -1,10 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=A2N1.A2N1" />
 
+<style>
+    h1, h2 {
+        margin: 0; /* Entfernt alle äußeren Abstände */
+        padding: 0; /* Entfernt innere Abstände */
+        border: none; /* Entfernt alle Randlinien */
+    }
+</style>
+
 <h1 align="center">AlphaNiro
      
 <hr/>
 
-<h1 align="center">
+<align="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&letterSpacing=big&duration=3000&pause=500&color=00E11C&background=FF541900&center=true&vCenter=true&width=500&height=70&lines=Welcome+To+Planet+Earth!;Nice+To+Meet+You." alt="Typing SVG" /></a> 
 
 <hr/>
