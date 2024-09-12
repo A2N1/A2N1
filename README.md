@@ -4,21 +4,19 @@
 
 <hr>
 
-<h1 align="center">AlphaNiro</h1>
+<h3 align="center">AlphaNiro</h3>
 <p align="center">
   <samp>Text :de: :earth_americas:</samp>
 </p>
 
-<hr>
-
-<h1 align="center">
+<h3 align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </a>
 
 <hr>
 
-<h2 align="center">Languages and Tools</h2>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -30,17 +28,7 @@
 
 <hr>
 
-<style>
-    h1 {
-        border: none;
-        margin-bottom: 0; /* Falls ein Abstand darunter ist */
-    }
-</style>
-<h1>Interested</h1>
-
-
-
-<h2 align="center">Interested</h2>
+<h3 align="center">Interested</h3>
 <p align="center">
      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -63,7 +51,7 @@
 
 <hr>
 
-<h2 align="center">Social Media</h2>
+<h3 align="center">Social Media</h3>
 <p align="center">
   <a target="_blank"href="Link"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="Link"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
