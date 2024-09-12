@@ -2,15 +2,21 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&letterSpacing=big&duration=3000&pause=500&color=0ED7F3&background=FF541900&center=true&vCenter=true&width=500&height=70&lines=Welcome+To+Planet+Earth+%F0%9F%8C%8E;Nice+To+Meet+You+%F0%9F%91%8B"
 </p>
 
+<hr>
+
 <h1 align="center">AlphaNiro</h1>
 <p align="center">
   <samp>Text :de: :earth_americas:</samp>
 </p>
 
+<hr>
+
 <h1 align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </a>
+
+<hr>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
@@ -21,6 +27,18 @@
      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;&nbsp;
 </p>
+
+<hr>
+
+<style>
+    h1 {
+        border: none;
+        margin-bottom: 0; /* Falls ein Abstand darunter ist */
+    }
+</style>
+<h1>Interested</h1>
+
+
 
 <h2 align="center">Interested</h2>
 <p align="center">
@@ -43,6 +61,7 @@
      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
 </p>
 
+<hr>
 
 <h2 align="center">Social Media</h2>
 <p align="center">
