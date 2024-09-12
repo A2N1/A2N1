@@ -2,8 +2,6 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&letterSpacing=big&duration=3000&pause=500&color=0ED7F3&background=FF541900&center=true&vCenter=true&width=500&height=70&lines=Welcome+To+Planet+Earth+%F0%9F%8C%8E;Nice+To+Meet+You+%F0%9F%91%8B"
 </p>
 
-<hr>
-
 <h1 align="center">AlphaNiro</h1>
 <p align="center">
   <samp>Text :de: :earth_americas:
@@ -12,9 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=A2N1" alt="https://github.com/A2N1" />
 </p>
 
-<hr>
-
-<h3 align="center">Languages and Tools<p>
+<h2 align="center">Languages and Tools<p>
 <p align="center">
      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />&nbsp;&nbsp;&nbsp;
