@@ -29,7 +29,7 @@ OracleSQL
 <h2 align="center">Social Media<p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Twitter,linkedin,instagram,discord" />
+    <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram,discord" />
   </a>
 </p>
 
