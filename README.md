@@ -14,7 +14,7 @@
 
 <hr>
 
-<h2 align="center">Languages and Tools</h2><p>
+<h2 align="center">Languages and Tools<p>
 <p align="center">
      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@
 
 <hr>
 
-<h2 align="center">Interested</h2><p>
+<h2 align="center">Interested<p>
 <p align="center">
      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;&nbsp;
