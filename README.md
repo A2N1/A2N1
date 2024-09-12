@@ -15,7 +15,6 @@ Text
     <img src="https://skillicons.dev/icons?i=java,idea,vscode,github,eclipse" />
   </a>
 </p>
-OracleSQL
 
 <h2 align="center">Interested<p>
 <p align="center">
@@ -23,8 +22,6 @@ OracleSQL
     <img src="https://skillicons.dev/icons?i=wordpress,windows,stackoverflow,rust,spring,ruby,r,py,powershell,php,linux,kotlin,js,htmx,html,gradle,go,docker,bots,dart,cloudflare,css,c,cs,cpp,aws,kubernetes,dotnet,mysql" />
   </a>
 </p>
-<h2/>
-OracleSQL
 
 <hr/>
 
