@@ -9,7 +9,7 @@
 <hr/>
 
 <p align="center">Languages and Tools<p>
-<div align="center">
+<p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,java,html" />
     <img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
