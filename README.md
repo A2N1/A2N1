@@ -9,14 +9,14 @@
 </h1>
 </div>
 
-<h2 align="center">Languages and Tools<br/>
+<h2 align="center">Languages and Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,java,html" />
     <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
     
 </div>
 
-<h2 align="center">Currently Learning</div>
+<h2 align="center">Currently Learning</h1>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,java,html" />
     <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
