@@ -1,13 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=A2N1.A2N1" />
 
-<style>
-    h1, h2 {
-        margin: 0; /* Entfernt alle äußeren Abstände */
-        padding: 0; /* Entfernt innere Abstände */
-        border: none; /* Entfernt alle Randlinien */
-    }
-</style>
-
 <h1 align="center">AlphaNiro
      
 <hr/>
