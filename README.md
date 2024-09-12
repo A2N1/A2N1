@@ -4,8 +4,6 @@
 
 <hr/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=A2N1.A2N1" />
-<br/>
 <h1 align="center">AlphaNiro
 
 <hr/>
@@ -23,3 +21,5 @@
 <hr/> - Wird verwendet, um Inhalte visuell zu trennen. Es ist auch ein selbstschließendes Tag und benötigt kein schließendes </hr>.
 <html> </html>, <head> </head>, <title>, <body>
 -->
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=A2N1.A2N1" />
