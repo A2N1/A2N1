@@ -6,7 +6,7 @@
 <p align="center">
   <samp>Text :de: :earth_americas:</samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=A2N1" alt="https://github.com/A2N1" />
+  <img src="https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </p>
 
 <h2 align="center">Languages and Tools</h2>
@@ -51,6 +51,9 @@
   <a href="Link"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true" />
+</a>
 
 <!-- 
 </div> - Container, die andere HTML-Elemente gruppieren können. Das </div>-Tag markiert das Ende dieses Containers.
