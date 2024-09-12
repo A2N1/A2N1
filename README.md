@@ -9,6 +9,10 @@
   <img src="https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true" />
+</a>
+
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;
