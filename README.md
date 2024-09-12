@@ -59,7 +59,7 @@
   <a href="Link"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr/>
+<hr>
 
 <!-- 
 </div> - Container, die andere HTML-Elemente gruppieren können. Das </div>-Tag markiert das Ende dieses Containers.
