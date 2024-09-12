@@ -5,11 +5,11 @@
 <hr/>
 
 <h1 align="center">AlphaNiro
-</h1>
-Text :de: :earth_americas:
-
 <p align="center">
-     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=A2N1.A2N1" />
+  <samp>Text :de: :earth_americas:
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=A2N1" alt="https://github.com/A2N1" />
 </p>
 
 <hr>
