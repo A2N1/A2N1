@@ -9,7 +9,7 @@
 </h1>
 </div>
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">Languages and Tools<p>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,java,html" />
     <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
