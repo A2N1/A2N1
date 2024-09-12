@@ -8,8 +8,9 @@
 
 <p align="center">Languages and Tools<p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,java,html" />
-    <img src="https://skillicons.dev/icons?i=python,javascript" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 
 <!-- 
