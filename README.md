@@ -96,6 +96,16 @@
 <h3 align="center">Music</h3>
 <div align=center>
      <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=AlphaNiro&theme=dark&show_scrobbles=true" alt="Last.fm"/>
+</div>
+<hr>
+
+<div align="center">
+  <h3> Snake </h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A2N1/A2N1/output/github-contribution-grid-snake.svg" />
+</div>
+
+
+Thanks for Visiting!
 
 <!-- 
 Readme Typing SVG: https://github.com/denvercoder1/readme-typing-svg           license: MIT License
@@ -104,16 +114,5 @@ VisitCount: https://github.com/VishwaGauravIn/visit-count-pro                  l
 GitHub Stats: https://github.com/anuraghazra/github-readme-stats               license: MIT License
 Duolingo Stats: https://github.com/KevzPeter/Duolingo-Stats-Card               license: No License
 Last.fm: https://github.com/rafaelwi/github-readme-lastfm-stats                license: MIT License
+Snake: https://github.com/salesp07/salesp07                                    license: MIT License
 -->
-<hr>
-
-<div align="center">
-  <h3> Snake </h3>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A2N1/A2N1/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
-Thanks for Visiting!
