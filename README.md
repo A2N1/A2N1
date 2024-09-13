@@ -18,12 +18,12 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />&nbsp;&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />&nbsp;&nbsp;&nbsp;
+     <a target="_blank"href="https://www.java.com"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+     <a target="_blank"href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+     <a target="_blank"href="https://en.wikipedia.org/wiki/Windows_Terminal"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
      <a target="_blank"href="https://www.oracle.com/database/sqldeveloper"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;&nbsp;
+     <a target="_blank"href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+     <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
