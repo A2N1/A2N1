@@ -107,4 +107,13 @@ Last.fm: https://github.com/rafaelwi/github-readme-lastfm-stats                l
 -->
 <hr>
 
+<div align="center">
+  <h2> Snake </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A2N1/A2N1/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
 Thanks for Visiting!
