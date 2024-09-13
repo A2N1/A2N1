@@ -60,6 +60,7 @@
      <a target="_blank"href="https://leetcode.com/u/A2N1/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="Link"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a target="_blank"href="https://de.duolingo.com/profile/AlphaNiro"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a target="_blank"href="https://steamcommunity.com/id/AlphaNiro/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
