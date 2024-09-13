@@ -87,6 +87,12 @@
     Duolingo Stats
     </summary>
     <br />
-    <img src="https://duolingo-stats-card.vercel.app/api?username=AlphaNiro&theme=tokyonight&sort=xp"" alt="Duolingo Stats"/>
+    <img src="https://duolingo-stats-card.vercel.app/api?username=AlphaNiro&theme=tokyonight&sort=xp" alt="Duolingo Stats"/>
 </details>
 </div>
+
+<hr>
+
+<h3 align="center">Music</h3>
+<div align=center>
+     <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=AlphaNiro&theme=dark&show_scrobbles=true" alt="Last.fm"/>
