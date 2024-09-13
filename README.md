@@ -105,3 +105,9 @@ GitHub Stats: https://github.com/anuraghazra/github-readme-stats               l
 Duolingo Stats: https://github.com/KevzPeter/Duolingo-Stats-Card               license: No License
 Last.fm: https://github.com/rafaelwi/github-readme-lastfm-stats                license: MIT License
 -->
+<hr>
+
+
+
+Thanks for Visiting!
+
