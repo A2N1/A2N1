@@ -96,3 +96,8 @@
 <h3 align="center">Music</h3>
 <div align=center>
      <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=AlphaNiro&theme=dark&show_scrobbles=true" alt="Last.fm"/>
+
+
+<!-- 
+Readme Typing SVG: https://github.com/denvercoder1/readme-typing-svg          license: MIT License
+Badgets: https://github.com/Ileriayo/markdown-badges                          license: MIT License
