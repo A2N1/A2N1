@@ -107,7 +107,4 @@ Last.fm: https://github.com/rafaelwi/github-readme-lastfm-stats                l
 -->
 <hr>
 
-
-
 Thanks for Visiting!
-
