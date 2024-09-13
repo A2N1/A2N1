@@ -6,7 +6,7 @@
 
 <h3 align="center">AlphaNiro</h3>
 <p align="center">
-  <samp>Text :de: :earth_americas:</samp>
+  <samp>I do my Bachelor in Business informatics, from :de:, like geography :earth_americas:</samp>
 </p>
 
 <h3 align="center">
@@ -97,7 +97,11 @@
 <div align=center>
      <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=AlphaNiro&theme=dark&show_scrobbles=true" alt="Last.fm"/>
 
-
 <!-- 
-Readme Typing SVG: https://github.com/denvercoder1/readme-typing-svg          license: MIT License
-Badgets: https://github.com/Ileriayo/markdown-badges                          license: MIT License
+Readme Typing SVG: https://github.com/denvercoder1/readme-typing-svg           license: MIT License
+Badgets: https://github.com/Ileriayo/markdown-badges                           license: MIT License
+VisitCount: https://github.com/VishwaGauravIn/visit-count-pro                  license: No License
+GitHub Stats: https://github.com/anuraghazra/github-readme-stats               license: MIT License
+Duolingo Stats: https://github.com/KevzPeter/Duolingo-Stats-Card               license: No License
+Last.fm: https://github.com/rafaelwi/github-readme-lastfm-stats                license: MIT License
+-->
