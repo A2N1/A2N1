@@ -53,7 +53,7 @@
 
 <h3 align="center">Social Media</h3>
 <p align="center">
-     <a target="_blank"href="discordapp.com/users/379676311263641603"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a target="_blank"href="https://discordapp.com/users/379676311263641603"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a target="_blank"href="Link"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a target="_blank"href="Link"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a target="_blank"href="https://leetcode.com/u/A2N1/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
