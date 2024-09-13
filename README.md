@@ -97,6 +97,7 @@
 <div align=center>
      <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=AlphaNiro&theme=dark&show_scrobbles=true" alt="Last.fm"/>
 </div>
+
 <hr>
 
 <div align="center">
@@ -104,8 +105,9 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A2N1/A2N1/output/github-contribution-grid-snake.svg" />
 </div>
 
-
-Thanks for Visiting!
+<div align="center">
+     Thanks for Visiting!
+</div>
 
 <!-- 
 Readme Typing SVG: https://github.com/denvercoder1/readme-typing-svg           license: MIT License
