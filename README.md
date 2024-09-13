@@ -69,10 +69,24 @@
 <hr>
 
 <h3 align="center">Stats</h3>
-<br>
 <div align=center>
+<details>
+     <summary>
+     Github Stats
+     </summary>
+     <br />
      <img width=440 height=200 src="https://streak-stats.demolab.com?user=A2N1&theme=tokyonight&border_radius=10&card_width=440&card_height=200" alt="GitHub Streak" /></a>
      <img width=440 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2N1&layout=compact&theme=tokyonight" alt="Top Languages">
      <img width=440 height=200 src="https://github-readme-stats.vercel.app/api?username=A2N1&&rank_icon=github&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats">
-     <img src="https://duolingo-stats-card.vercel.app/api?username=AlphaNiro&theme=tokyonight&sort=xp"" alt="Duolingo Stats"/>
+</details>
+</div>
+
+<div align=center>
+<details>
+    <summary>
+    Duolingo Stats
+    </summary>
+    <br />
+    <img src="https://duolingo-stats-card.vercel.app/api?username=AlphaNiro&theme=tokyonight&sort=xp"" alt="Duolingo Stats"/>
+</details>
 </div>
