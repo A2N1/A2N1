@@ -6,7 +6,7 @@
 
 <h3 align="center">AlphaNiro</h3>
 <p align="center">
-  <samp>I do my Bachelor in Business informatics, from :de:, like geography :earth_americas:</samp>
+  <samp>I do my Bachelor in Business informatics, from :de:, I like geography :earth_americas: & Quizzes</samp>
 </p>
 
 <h3 align="center">
