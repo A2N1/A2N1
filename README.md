@@ -13,6 +13,17 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </a>
+</h3>
+
+<div align=center>
+<details>
+    <summary>
+    Quote
+    </summary>
+    <br />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes"/>
+</details>
+</div>
 
 <hr>
 
@@ -99,13 +110,6 @@
 <h3 align="center">Music</h3>
 <div align=center>
      <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=AlphaNiro&theme=dark&show_scrobbles=true" alt="Last.fm"/>
-</div>
-
-<hr>
-
-<h3 align="center">Quotes</h3>
-<div align=center>
-     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes"/>
 </div>
 
 <hr>
