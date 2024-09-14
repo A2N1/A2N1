@@ -103,6 +103,13 @@
 
 <hr>
 
+<h3 align="center">Quotes</h3>
+<div align=center>
+     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes"/>
+</div>
+
+<hr>
+
 <div align="center">
   <h3> Snake </h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A2N1/A2N1/output/github-contribution-grid-snake.svg" />
@@ -119,5 +126,6 @@ VisitCount: https://github.com/VishwaGauravIn/visit-count-pro                  l
 GitHub Stats: https://github.com/anuraghazra/github-readme-stats               license: MIT License
 Duolingo Stats: https://github.com/KevzPeter/Duolingo-Stats-Card               license: No License
 Last.fm: https://github.com/rafaelwi/github-readme-lastfm-stats                license: MIT License
+Quotes: https://github.com/PiyushSuthar/github-readme-quotes                   license: MIT License
 Snake: https://github.com/salesp07/salesp07                                    license: MIT License
 -->
