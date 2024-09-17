@@ -27,8 +27,33 @@
 
 <hr>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
+     <p align="center">
+     <samp>Languages
+     </p>
+          <!--
+          <a target="_blank"href="https://www.java.com"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+          Python
+          JavaScript
+          C#
+          C++
+          C
+          Ruby
+          PHP
+          Go (Golang)
+          Swift
+          Kotlin
+          R
+          Rust
+          Visual Basic
+          Fortran
+          Delphi/Object Pascal
+          MATLAB
+          Scatch
+          COBOL
+          Swift
+          -->
      <a target="_blank"href="https://www.java.com"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
      <a target="_blank"href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
      <a target="_blank"href="https://en.wikipedia.org/wiki/Windows_Terminal"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
@@ -36,6 +61,42 @@
      <a target="_blank"href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
      <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;   
      <a target="_blank"href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+     <p align="center">
+     <samp>Frameworks
+     </p>
+          <!--
+          Spring (Java)
+          Django/Flask/Pandas/FastAPI (Python)
+          React/Angular/Vue.js/Node.js (JavaScript)
+          Ruby on Rails (Ruby)
+          ASP.NET (C#)
+          Laravel (PHP)
+     <p align="center">
+     <samp>Tools
+     </p>
+          Git
+          GitHub
+          Docker
+          Kubernetes
+          <a target="_blank"href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+          <a target="_blank"href="https://en.wikipedia.org/wiki/Windows_Terminal"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+     <p align="center">
+     <samp>Cloud
+     </p>
+          AWS (Amazon Web Services)
+          Azure (Microsoft)
+          Google Cloud Platform (GCP)
+     <p align="center">
+     <samp>Datenbanken
+     </p>
+          MySQL
+          Oracle Database <a target="_blank"href="https://www.oracle.com/database/sqldeveloper"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+     <p align="center">
+     <samp>Datenbanken
+     </p>
+          HTML (HyperText Markup Language)
+          CSS (Cascading Style Sheets)
+     -->
 </p>
 
 <hr>
