@@ -135,10 +135,26 @@
                <a target="_blank"href="https://en.wikipedia.org/wiki/Windows_Terminal"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
                <!--
                https://moqups.com/
+               -->
+          </p>
+     <h4 align="center">Design</h4>
+          <p align="center">
+               <!--
                Canva
                Figma
                Gimp
                -->
+          </p>
+     <h4 align="center">Developer/Forums</h4>
+          <p align="center">
+               <a target="_blank"href="https://leetcode.com/u/A2N1/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <a target="_blank"href="https://www.reddit.com/user/AlphaNiro/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+          </p>
+     <h4 align="center">Education</h4>
+          <p align="center">
+               <a target="_blank"href="https://www.freecodecamp.org"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <a target="_blank"href="https://de.duolingo.com/profile/AlphaNiro"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <a target="_blank"href="https://www.udemy.com"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
           </p>
      </p>
 
@@ -180,7 +196,6 @@
      <a target="_blank"href="Link"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a target="_blank"href="https://leetcode.com/u/A2N1/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="Link"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a target="_blank"href="https://de.duolingo.com/profile/AlphaNiro"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a target="_blank"href="https://steamcommunity.com/id/AlphaNiro/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
