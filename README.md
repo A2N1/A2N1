@@ -62,7 +62,7 @@
                <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
                -->
           </p>
-     <h4 align="center">Frameworks</h4>
+     <h4 align="center">Framework</h4>
           <p align="center">
                <a target="_blank"href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
                <!--
@@ -84,7 +84,7 @@
                img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34
                -->
           </p>
-     <h4 align="center">APIs</h4>
+     <h4 align="center">API</h4>
           <p align="center">
                <!--
                REST (Representational State Transfer)
@@ -160,7 +160,7 @@
      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=whit" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 </p>
