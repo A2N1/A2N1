@@ -133,6 +133,12 @@
                -->
                <a target="_blank"href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://en.wikipedia.org/wiki/Windows_Terminal"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+               <!--
+               https://moqups.com/
+               Canva
+               Figma
+               Gimp
+               -->
           </p>
      </p>
 
