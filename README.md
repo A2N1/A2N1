@@ -161,7 +161,7 @@
 
 <hr>
 
-<h3 align="center">Interested</h3>
+<h3 align="center">Interests</h3>
 <p align="center">
      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;&nbsp;
