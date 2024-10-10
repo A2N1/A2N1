@@ -38,6 +38,7 @@
                <a target="_blank"href="https://www.java.com"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;
                <!--
                <a target="_blank"href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -110,6 +111,12 @@
                Let's Encrypt
                -->
           </p>
+     <h4 align="center">IDEs/Editors</h4>
+          <p align="center">
+               <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;
+               <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;&nbsp;
+               <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />&nbsp;&nbsp;
+          </p>
      <h4 align="center">Other Tools</h4>
           <p align="center">
                <a target="_blank"href="https://git-scm.com"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -173,7 +180,6 @@
      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
