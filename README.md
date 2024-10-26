@@ -30,8 +30,6 @@
 
 <hr>
 
-<!--https://github.com/Ileriayo/markdown-badges Anpassen!! -->
-
 <h3 align="center">Tech Stack</h3>
      <h4 align="center">Backend</h4>
           <p align="center">
