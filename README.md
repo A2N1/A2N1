@@ -163,9 +163,11 @@
           </p>
      <h4 align="center">Education</h4>
           <p align="center">
-               <a target="_blank"href="https://www.freecodecamp.org"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://de.duolingo.com/profile/AlphaNiro"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <!--
+               <a target="_blank"href="https://www.freecodecamp.org"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://www.udemy.com"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               -->
           </p>
      </p>
 
