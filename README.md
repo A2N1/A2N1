@@ -16,6 +16,7 @@
 <h3 align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true" />
+  Note: Due Costs the creaters shut it down.
 </a> 
 </h3>
 -->
@@ -33,13 +34,27 @@
 <hr>
 
 <h3 align="center">Tech Stack</h3>
+     <h4 align="center">Frontend</h4>
+          <p align="center">
+               <a target="_blank"href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <a target="_blank"href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <!--
+               React
+               JavaScript
+               TypeScript
+               <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               -->
+          </p>
      <h4 align="center">Backend</h4>
           <p align="center">
                <a target="_blank"href="https://www.java.com"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;
                <!--
+               Python mit Django
+               <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp; mit Express.js
+               Java mit SpringBoot
+               ---
                <a target="_blank"href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,65 +68,81 @@
                -->
           </p>
           <p align="center">
-     <h4 align="center">Frontend</h4>
+     <h4 align="center">API</h4>
           <p align="center">
-               <a target="_blank"href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <a target="_blank"href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <!--
-               <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               REST (Representational State Transfer)
+               WebSockets
+               GraphQL
+               -->
+          </p>          
+     <h4 align="center">Database</h4>
+          <p align="center">
+               <a target="_blank"href="https://www.oracle.com/database/sqldeveloper"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <!--
+               img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
+               PostgreSQL
+               Redis
+               img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34
                -->
           </p>
-     <h4 align="center">Framework</h4>
+      <h4 align="center">Data Science</h4>
+          <p align="center">
+               <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;
+          </p>
+     <h4 align="center">Frameworks</h4>
           <p align="center">
                <!--
-               <a target="_blank"href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-               -->
-               <!--
-               Django/Flask/Pandas/FastAPI (Python)
-               React/Angular/Vue.js/Node.js (JavaScript)
+               React (Frontend)
+               Spring Boot (Java Backend) <a target="_blank"href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               Django (Python Backend)
+               ---
+               Flask/Pandas/FastAPI (Python)
+               Angular/Vue.js (JavaScript)
                Ruby on Rails (Ruby)
                ASP.NET (C#)
                Laravel (PHP)
                Fiber (Go)
                -->
           </p>
-     <h4 align="center">Database</h4>
-          <p align="center">
-               <a target="_blank"href="https://www.oracle.com/database/sqldeveloper"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <!--
-               MySQL img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-               img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white
-               img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white
-               img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34
-               -->
-          </p>
-     <h4 align="center">API</h4>
+     <h4 align="center">Cloud & Hosting</h4>
           <p align="center">
                <!--
-               REST (Representational State Transfer)
-               WebSockets
-               -->
-          </p>
-     <h4 align="center">Server & Hosting</h4>
-          <p align="center">
-               <!--
-               Apache HTTP Server
                AWS (Amazon Web Services) img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
                Azure (Microsoft) img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
                Google Cloud Platform (GCP) img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
                img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7
                Render img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white
+               Apache HTTP Server
                -->
+          </p>
+     <h4 align="center">DevOps & Containerization</h4>
+          <p align="center">
+               <!--
+               Docker img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+               Kubernetes img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+               Nginx
+               Linux
+               -->
+          </p>
+     <h4 align="center">Version Control</h4>
+          <p align="center">
+               <a target="_blank"href="https://git-scm.com"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <a target="_blank"href="https://github.com"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
           </p>
      <h4 align="center">Security & Authentication</h4>
           <p align="center">
                <!--
-               OAuth 2.0
+               OAuth 2.0 - OAuth 2.0 ist der Standard für die Delegierung von Zugriffsrechten
                SSL/TLS
-               Let's Encrypt
+               JWT - JWTs sind der Standard für die sichere Übertragung von Benutzerinformationen zwischen Parteien
+               -->
+          </p>
+     <h4 align="center">Documentation</h4>
+          <p align="center">
+               <a target="_blank"href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <!--
+               Swagger/OpenAPI zur formalen Beschreibung von APIs
                -->
           </p>
      <h4 align="center">IDEs/Editors</h4>
@@ -122,12 +153,10 @@
           </p>
      <h4 align="center">Other Tools</h4>
           <p align="center">
-               <a target="_blank"href="https://git-scm.com"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <a target="_blank"href="https://github.com"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />&nbsp;&nbsp;
+               <a target="_blank"href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <a target="_blank"href="https://en.wikipedia.org/wiki/Windows_Terminal"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <!--
-               Docker img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-               Kubernetes img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
                Bash
                Scatch
                Mobile Entwicklung
@@ -141,18 +170,19 @@
                img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white
                img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white
                img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white
-               -->
-               <a target="_blank"href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <a target="_blank"href="https://en.wikipedia.org/wiki/Windows_Terminal"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <!--
+               img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white
+               img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white
                https://moqups.com/
+               Jira - Jira ist der Marktführer für agiles Projektmanagement
+               SLack - Slack ist der Standard für die Teamkommunikation.
+               Postman - Postman ist das Top-Tool für das Testen von APIs.
                -->
           </p>
      <h4 align="center">Design</h4>
           <p align="center">
                <!--
-               Canva
                Figma
+               Canva
                Gimp
                -->
           </p>
