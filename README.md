@@ -90,7 +90,7 @@
           </p>
       <h4 align="center">Data Science</h4>
           <p align="center">
-               <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;
+               <a target="_blank"href="https://github.com/A2N1/R"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
           </p>
      <h4 align="center">Frameworks</h4>
           <p align="center">
