@@ -52,6 +52,7 @@
           <p align="center">
                <a target="_blank"href="https://github.com/A2N1/Java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://github.com/A2N1/Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <a target="_blank"href="https://github.com/A2N1/PHP"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=whit" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <!--
                Python mit Django
                <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp; mit Express.js
@@ -61,7 +62,6 @@
                <a target="_blank"href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://www.ruby-lang.org/de/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-               <a target="_blank"href="https://www.php.net/"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=whit" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://go.dev/"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://www.r-project.org/"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
