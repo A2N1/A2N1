@@ -50,7 +50,7 @@
           </p>
      <h4 align="center">Backend</h4>
           <p align="center">
-               <a target="_blank"href="https://www.java.com"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <a target="_blank"href="https://github.com/A2N1/Java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://github.com/A2N1/Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <!--
                Python mit Django
