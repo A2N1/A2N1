@@ -7,8 +7,10 @@
 <h3 align="center">AlphaNiro</h3>
 <p align="center">
   <samp>
-       I do my Bachelor in Business Informatics, from :de:, I like geography :earth_americas: & Quizzes.
-       <br>The code of this profile is written with HTML 🖥️.
+          Industrial Management Assistant 🏭 <br>
+          Bachelor Student in Business Informatics 🖥️ <br>
+          Geography Enthusiast 🌎 | Quiz Lover 🧠
+       <br>The code of this profile is written with HTML.
   </samp>
 </p>
 
