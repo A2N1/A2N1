@@ -68,10 +68,12 @@
                <a target="_blank"href="https://fortran-lang.org/index"><img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                Apache Groovy?
                -->
+               <!--
           </p>
           <p align="center">
      <h4 align="center">API</h4>
           <p align="center">
+               -->
                <!--
                REST (Representational State Transfer)
                WebSockets
@@ -91,9 +93,11 @@
       <h4 align="center">Data Science</h4>
           <p align="center">
                <a target="_blank"href="https://github.com/A2N1/R"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <!--
           </p>
      <h4 align="center">Frameworks</h4>
           <p align="center">
+               -->
                <!--
                React (Frontend)
                Spring Boot (Java Backend) <a target="_blank"href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -106,9 +110,11 @@
                Laravel (PHP)
                Fiber (Go)
                -->
+               <!--
           </p>
      <h4 align="center">Cloud & Hosting</h4>
           <p align="center">
+               -->
                <!--
                AWS (Amazon Web Services) img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
                Azure (Microsoft) img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
@@ -117,9 +123,11 @@
                Render img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white
                Apache HTTP Server
                -->
+               <!--
           </p>
      <h4 align="center">DevOps & Containerization</h4>
           <p align="center">
+               -->
                <!--
                Docker img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
                Kubernetes img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
@@ -131,9 +139,11 @@
           <p align="center">
                <a target="_blank"href="https://git-scm.com"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
                <a target="_blank"href="https://github.com"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <!--
           </p>
      <h4 align="center">Security & Authentication</h4>
           <p align="center">
+               -->
                <!--
                OAuth 2.0 - OAuth 2.0 ist der Standard für die Delegierung von Zugriffsrechten
                SSL/TLS
@@ -179,9 +189,11 @@
                SLack - Slack ist der Standard für die Teamkommunikation.
                Postman - Postman ist das Top-Tool für das Testen von APIs.
                -->
+               <!--
           </p>
      <h4 align="center">Design</h4>
           <p align="center">
+               -->
                <!--
                Figma
                Canva
