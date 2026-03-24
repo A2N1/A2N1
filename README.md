@@ -163,6 +163,11 @@
                <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;&nbsp;
                <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />&nbsp;&nbsp;
           </p>
+     <h4 align="center">Platforms(CMS)</h4>
+          <p align="center">
+               <img src="https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" />&nbsp;&nbsp;
+               <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />&nbsp;&nbsp;
+          </p>
      <h4 align="center">Other Tools</h4>
           <p align="center">
                <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />&nbsp;&nbsp;
